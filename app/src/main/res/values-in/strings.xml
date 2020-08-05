@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitUsers</string>
+
+    <string name="search_user">Cari pengguna</string>
+    <string name="previous_page">Halaman sebelumnya</string>
+    <string name="next_page">Halaman Selanjutnya</string>
+    <string name="this_is_background">Ini latar belakang</string>
+    <string name="search_user_first">Cari pengguna terlebih dahulu :D</string>
+    <string name="profile_photo">Foto profil</string>
+    <string name="divider">Pemisah</string>
+    <string name="location">Lokasi</string>
+    <string name="repo">Repositori</string>
+    <string name="company">Perusahaan</string>
+    <string name="favorite">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="no_favorite">Tidak ada pengguna favorit..</string>
+    <string name="reminder_content">Mari lihat pengguna lainnya!</string>
+    <string name="reminder_success">Pengingat Aktif!</string>
+    <string name="reminder_canceled">pengingat berhasil dibatalkan</string>
+
+    <!-- string template -->
+    <string name="id_template">id : %1$d</string>
+    <string name="page_template">Halaman %1$d dari %2$d</string>
+    <string name="followers_template">Pengikut - %1$d</string>
+    <string name="following_template">Mengikuti - %1$d</string>
+
+    <!-- Error Message -->
+    <string name="try_again">Coba lagi</string>
+    <string name="no_users">Pengguna Tidak Ditemukan</string>
+    <string name="no_followers">Tidak ada pengikut</string>
+    <string name="no_following">Tidak ada yang diikuti</string>
+    <string name="error_401">Error 401, Permintaan Buruk</string>
+    <string name="error_403">Error 403, Terlarang</string>
+    <string name="error_404">Error 404, Tidak Ditemukan</string>
+    <string name="no_internet">Tidak ada internet, cek koneksi anda</string>
+    <string name="unknown_error">Masalah telah terjadi, silakan coba lagi</string>
+
+    <!-- Preference Titles -->
+    <string name="reminder_title">Aktifkan pengingat pada pukul 9 pagi</string>
+    <string name="select_language">Ganti Bahasa</string>
+
+</resources>

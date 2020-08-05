@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        android:key="@string/key_language_preference"
+        android:title="@string/select_language"
+        app:iconSpaceReserved="false"/>
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="@string/key_reminder_switch"
+        android:title="@string/reminder_title"
+        app:iconSpaceReserved="false"/>
+
+</PreferenceScreen>

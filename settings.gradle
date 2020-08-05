@@ -1,0 +1,3 @@
+include ':gitconsumer'
+include ':app'
+rootProject.name = "GitUsers"

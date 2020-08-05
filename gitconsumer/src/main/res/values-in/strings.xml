@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Git Consumer</string>
+    <string name="no_favorite">Tidak ada pengguna favorit..</string>
+    <string name="this_is_background">Ini latar belakang</string>
+    <string name="id_template">id : %1$d</string>
+    <string name="profile_photo">Foto Profil</string>
+    <string name="divider">pemisah</string>
+    <string name="favorite">Favorit</string>
+</resources>

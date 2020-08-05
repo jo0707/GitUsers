@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Git Consumer</string>
+    <string name="no_favorite">No Favorite Users..</string>
+    <string name="this_is_background">this is background</string>
+
+    <string name="id_template">id : %1$d</string>
+
+    <string name="name_sample" translatable="false">Jake Wharton</string>
+    <string name="username_sample" translatable="false">jakewharton</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="divider">divider</string>
+    <string name="favorite">Favorite</string>
+</resources>

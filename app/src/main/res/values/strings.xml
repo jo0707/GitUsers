@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">GitUsers</string>
+
+    <string name="search_user">Search username</string>
+    <string name="previous_page">previous page</string>
+    <string name="next_page">next page</string>
+    <string name="this_is_background">this is background</string>
+    <string name="search_user_first">Search Username First :D</string>
+    <string name="profile_photo">profile photo</string>
+    <string name="divider">divider</string>
+    <string name="location">location</string>
+    <string name="repo">repository</string>
+    <string name="company">company</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="no_favorite">No Favorite Users..</string>
+    <string name="reminder_content">Let\'s see more users!</string>
+    <string name="reminder_success">Reminder enabled successfully!</string>
+    <string name="reminder_canceled">Reminder canceled successfully</string>
+
+    <!-- string template -->
+    <string name="id_template">id : %1$d</string>
+    <string name="page_template">page %1$d from %2$d</string>
+    <string name="followers_template">followers - %1$d</string>
+    <string name="following_template">following - %1$d</string>
+
+    <!-- Error Message -->
+    <string name="try_again">Try again</string>
+    <string name="no_users">No Users Found</string>
+    <string name="no_followers">No Followers found</string>
+    <string name="no_following">No Following found</string>
+    <string name="error_401">Error 401, Bad Request</string>
+    <string name="error_403">Error 403, Forbidden</string>
+    <string name="error_404">Error 404, Not Found</string>
+    <string name="no_internet">No internet. please check your internet</string>
+    <string name="unknown_error">A problem has occurred, please try again</string>
+
+
+    <!-- Samples-->
+    <string name="name_sample" translatable="false">Jake Wharton</string>
+    <string name="repo_sample" translatable="false">20</string>
+    <string name="username_sample" translatable="false">jakewharton</string>
+    <string name="location_sample" translatable="false">Bandung, Indonesia</string>
+    <string name="companySample" translatable="false">\@Google, Inc</string>
+
+
+    <!-- Preference Titles -->
+    <string name="reminder_title">Enable reminder at 9 AM</string>
+    <string name="select_language">Select language</string>
+
+    <!-- Preference Key -->
+    <string name="key_reminder_switch" translatable="false">reminder_switch</string>
+    <string name="key_language_preference" translatable="false">language_preference</string>
+
+
+</resources>
