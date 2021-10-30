@@ -44,7 +44,7 @@ class MainViewModel: ViewModel() {
 
         val client      = AsyncHttpClient().apply {
             addHeader("Authorization", "token $apiToken")
-            addHeader("User-agent", "joSng")
+            addHeader("User-agent", "jo0707")
         }
 
         if (prevQuery != query) currentPage = 1
