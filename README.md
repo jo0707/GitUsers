@@ -1,46 +1,37 @@
-# Buah-Vit
-  Buah Vit merupakan aplikasi yang menampilkan informasi tentang buah-buahan. 
-  Aplikasi ini merupakan submission (tugas) untuk Dicoding kelas Belajar Membuat Aplikasi Android untuk Pemula.
+<h1 align="center">GitUsers</h1>
+
+GitUsers is an application that shows Github users and detail.  
+This application is made to complete the submission of [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14)
   
-# Keterangan
-  * #### Dibuat di
-  Android Studio versi 3.6
-  * #### Bahasa
-  Kotlin
+## Details
+  * #### Language
+      Kotlin
   * #### Minimal API
-  21 (Android 5.0)
+      21 (Android 5.0)
+  * #### Published At
+      5 August 2020
   
-# Preview
-  * ### Halaman Utama
-     <img src="https://raw.githubusercontent.com/joSng/Buah-Vit/master/screenshoot/Main_list.png"
-     width="23%" height="23%" style="float: left; margin-right: 10px;" />
-     <img src="https://raw.githubusercontent.com/joSng/Buah-Vit/master/screenshoot/main_grid.png"
-     width="23%" height="23%" style="float: left; margin-right: 10px;" />
-     <img src="https://raw.githubusercontent.com/joSng/Buah-Vit/master/screenshoot/grid_custom.png"
-     width="23%" height="23%" style="float: left; margin-right: 10px;" />
-     <img src="https://raw.githubusercontent.com/joSng/Buah-Vit/master/screenshoot/main_dark.png"
-     width="23%" height="23%" style="float: left; margin-right: 10px;" />
+## Preview
+  * ### Main Page (Search)
+     <img src="https://raw.githubusercontent.com/jo0707/GitUsers/master/screenshots/Main.png" width="23%" height="23%" style="float: left; margin-right: 10px;" />
      
   * ### Detail
-     <img src="https://raw.githubusercontent.com/joSng/Buah-Vit/master/screenshoot/detail.PNG"
-     width="23%" height="23%" style="float: left; margin-right: 10px;" />
-     <img src="https://raw.githubusercontent.com/joSng/Buah-Vit/master/screenshoot/detail2.jpg"
-     width="23%" height="23%" style="float: left; margin-right: 10px;" />
-     <img src="https://raw.githubusercontent.com/joSng/Buah-Vit/master/screenshoot/detail3.jpg"
-     width="23%" height="23%" style="float: left; margin-right: 10px;" />
+     <img src="https://raw.githubusercontent.com/jo0707/GitUsers/master/screenshots/Detail.png" width="23%" height="23%" style="float: left; margin-right: 10px;" />
   
-  * ### About
-     <img src="https://raw.githubusercontent.com/joSng/Buah-Vit/master/screenshoot/about.png"
-     width="23%" height="23%" style="float: left; margin-right: 10px;" />
-     
-# Tambahan
-  #### Aplikasi / project ini dibuat hanya sebagai referensi bagi yang sedang belajar di Dicoding. Jangan lakukan plagiasi karena sama saja tidak ada ilmu yang didapat.
+  * ### Favorites
+     <img src="https://raw.githubusercontent.com/jo0707/GitUsers/master/screenshots/Favorites.png" width="23%" height="23%" style="float: left; margin-right: 10px;" />
+       
+  * ### Widget
+     <img src="https://raw.githubusercontent.com/jo0707/GitUsers/master/screenshots/Widget.png" width="23%" height="23%" style="float: left; margin-right: 10px;" />
+
+## Note
+  #### This project is published only as a reference for friends, especially those who are studying at Dicoding. Do not plagiarize this project because there is no knowledge gained.
   
-  Link kelas Dicoding : https://www.dicoding.com/academies/51
+  Dicoding class link : [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14)
   
-# Credit
+## Credit
   * ### Josua Sinaga 
 
 
-aug 5 2020
+
 
