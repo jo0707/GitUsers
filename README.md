@@ -31,7 +31,7 @@ This application is made to complete the submission of [Belajar Fundamental Apli
   Dicoding class link : [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14)
   
 ## Credit
-  * ### Josua Sinaga 
+  * ### Josua Sinaga   
 
 
 
