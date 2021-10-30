@@ -29,7 +29,7 @@ class FollowFragmentViewModel: ViewModel() {
         val tempList= arrayListOf<SimpleUser>()
         val client  = AsyncHttpClient().apply {
             addHeader("Authorization", "token $apiToken")
-            addHeader("User-agent", "joSng")
+            addHeader("User-agent", "jo0707")
         }
 
         client.get(followUrl, object : AsyncHttpResponseHandler() {
