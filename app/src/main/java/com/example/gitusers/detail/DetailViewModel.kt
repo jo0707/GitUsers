@@ -22,7 +22,7 @@ class DetailViewModel: ViewModel() {
     fun setUser(userUrl: String) {
         val client  = AsyncHttpClient().apply {
             addHeader("Authorization", "token $apiToken")
-            addHeader("User-agent", "joSng")
+            addHeader("User-agent", "jo0707")
         }
 
         client.get(userUrl, object : AsyncHttpResponseHandler() {
