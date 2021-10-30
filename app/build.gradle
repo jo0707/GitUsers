@@ -15,7 +15,7 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        buildConfigField("String" , "API_KEY" , '"a9a2d1980cfe2866b58a76609976c6c441d61946"')
+        buildConfigField("String" , "API_KEY" , '"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"')
     }
 
     kotlinOptions {
