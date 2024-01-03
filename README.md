@@ -26,7 +26,7 @@ This application is made to complete the submission of [Belajar Fundamental Apli
       5 August 2020
 
 ## Note
-  #### This project is published only as a reference for friends, especially those who are studying at Dicoding. Do not plagiarize this project because there is no knowledge gained.
+  #### This project is published only as a reference for public, especially those who are studying at Dicoding. Do not plagiarize this project because there is no knowledge gained.
   
   Dicoding class link : [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14)
   
